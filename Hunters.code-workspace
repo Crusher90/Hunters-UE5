@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Hunters",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Unreal Engine 5\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\Unreal Engine 5\\UnrealEngineProjects\\Hunters\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\Hunters\\Definitions.Hunters.h",
+			"D:\\Unreal Engine 5\\UnrealEngineProjects\\Hunters\\Intermediate\\Build\\Win64\\HuntersEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
